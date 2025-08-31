@@ -1,0 +1,8 @@
+python3 Kennedy_Ian_capstone.py
+Starting config:  [[-0.52921095 -0.30505864  0.79175438  0.57157047]
+ [-0.16952082  0.95233357  0.2536207   0.18308974]
+ [-0.83138346  0.         -0.55569915  0.2782084 ]
+ [ 0.          0.          0.          1.        ]]
+Generating animation csv file.
+Writing error plot data.
+Done
